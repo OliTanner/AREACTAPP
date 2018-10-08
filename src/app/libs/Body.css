@@ -1,0 +1,6 @@
+body {
+    display: inline; /* the default for span */
+    padding: 5px;
+    border: 1px solid blue;    
+    background-color: rgba(248, 242, 242, 0.534); 
+}
